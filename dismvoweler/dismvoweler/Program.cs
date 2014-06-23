@@ -10,6 +10,7 @@ namespace dismvoweler
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
