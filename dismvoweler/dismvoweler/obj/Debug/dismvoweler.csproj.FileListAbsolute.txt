@@ -1,1 +1,5 @@
 C:\Users\Technologist\Documents\GitHub\disemvoweler\dismvoweler\dismvoweler\bin\Debug\dismvoweler.exe.config
+C:\Users\Technologist\Documents\GitHub\disemvoweler\dismvoweler\dismvoweler\bin\Debug\dismvoweler.exe
+C:\Users\Technologist\Documents\GitHub\disemvoweler\dismvoweler\dismvoweler\bin\Debug\dismvoweler.pdb
+C:\Users\Technologist\Documents\GitHub\disemvoweler\dismvoweler\dismvoweler\obj\Debug\dismvoweler.exe
+C:\Users\Technologist\Documents\GitHub\disemvoweler\dismvoweler\dismvoweler\obj\Debug\dismvoweler.pdb
